@@ -23,22 +23,39 @@ For the first test case, both “limes avocado” and “apple lettuce” match 
 Sample Input
 
 2
+
 3 6
+
 apple lettuce limes avocado
+
 onion cranberries apple limes
+
 escarole corn28corn apple lettuce limes avocado
+
 limes avocado
+
 apple lettuce
+
 limes
+
 apple
+
 app
+
 apple limes
+
 3 3
+
 apple iphone se 2
+
 iphone 11 max pro
+
 iphone 11 pro max
+
 applee iphone
+
 max pro
+
 Iphone
 
 
@@ -47,15 +64,21 @@ Sample Output
 Case 1:
 
 2
+
 2
+
 3
+
 3
+
 0
+
 1
 
 Case 2:
 
 1
-1
-3
 
+1
+
+3
